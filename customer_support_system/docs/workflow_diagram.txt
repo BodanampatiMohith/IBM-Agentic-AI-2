@@ -1,0 +1,9 @@
+Customer Support Automation Workflow
+=================================
+1. Intake Customer Query
+2. Intent Classification
+3. Route to Sales / Technical / Billing / Account / Memory
+4. Retrieve Knowledge from RAG documents
+5. Generate Draft Response
+6. If high-risk request, send to Supervisor for approval
+7. Final response to customer

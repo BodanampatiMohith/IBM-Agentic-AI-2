@@ -1,0 +1,1 @@
+FAQ: Password reset can be completed by using the forgot password link.

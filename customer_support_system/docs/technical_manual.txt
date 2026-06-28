@@ -1,0 +1,1 @@
+Technical manual: Application crashes during file upload can be caused by corrupted cache or unsupported formats.
